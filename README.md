@@ -40,7 +40,7 @@ A digital banking and payment platform simulating core financial transactions.
 ## 📫 Connect With Me
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/tosin-okuwobi-03933a176/)
-[![Email](https://shields.io)](mailto:oktosin60@gmail.com)
+[![Email](https://shields.io)](oktosin60@gmail.com)
 
 ---
 
