@@ -27,12 +27,12 @@ Backend Engineer passionate about building scalable, secure, and maintainable ba
 
 ## 📌 Featured Projects
 
-### [Mentora](YOUR_REPOS_LINK_HERE)
+### [Mentora](https://github.com/Oktosin/mentora)
 A multi-tenant Learning Management System (LMS) built following a Modular Monolith architecture.
 *   **Key Features**: Multi-tenancy, course management, user role isolation.
 *   **Tech Stack**: Java, Spring Boot, Spring Data JPA, PostgreSQL.
 
-### [XPay](YOUR_REPOS_LINK_HERE)
+### [XPay](https://github.com/Oktosin/xpay)
 A digital banking and payment platform simulating core financial transactions.
 *   **Key Features**: Customer onboarding, secure transfers, card management, ledger updates.
 *   **Tech Stack**: Java, Spring Boot, Spring Security, PostgreSQL.
